@@ -24,7 +24,11 @@ Here are some ideas to get you started:
 
 ### Spotify Playing 🎧
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1279713513&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=1279713513&redirect=true)
+<p align="center">
+  <a href="https://spotify-github-profile.vercel.app/api/view?uid=1279713513&redirect=true">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=1279713513&cover_image=true&theme=default">
+  </a>
+</p>
 
 ### Languages and Tools:
 
