@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="begeistert Spotify Playing" width="350" />](https://open.spotify.com/user/1279713513)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1279713513&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
 
 <!--### Connect with me:
 
@@ -54,3 +54,5 @@ Here are some ideas to get you started:
 4. 🎉 Merged PR [#12](https://github.com/codeSTACKr/codeSTACKr/pull/12) in [codeSTACKr/codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)
 5. 💪 Opened PR [#12](https://github.com/codeSTACKr/codeSTACKr/pull/12) in [codeSTACKr/codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)
 END_SECTION:activity-->
+
+[spotify-github-profile]: https://github.com/begeistert
