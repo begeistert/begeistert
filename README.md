@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 ### Hi there, I'm Ivan - aka [begeistert](https://github.com/begeistert) 👋
 
 ## I'm a Developer and Student!!
-
+- 🔭 I’m currently working on [Sherlock](https://github.com/begeistert/Sherlock) and [NuPy](https://github.com/begeistert/nupy)
 - 🌱 I’m currently learning Python
-- 👯 I’m looking to collaborate [SymPy](https://github.com/sympy/sympy) project
+- 😄 I’m looking to collaborate [SymPy](https://github.com/sympy/sympy) project
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to sleep and create **code**
 
