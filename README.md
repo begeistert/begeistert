@@ -30,6 +30,10 @@ Here are some ideas to get you started:
   </a>
 </p>
 
+[![begeistert's github stats](https://github-readme-stats.vercel.app/api?username=begeistert&count_private=true&show_icons=true&theme=radical)](https://github.com/begeistert/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=begeistert&layout=compact&theme=radical)](https://github.com/begeistert/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=begeistert&repo=Sherlock&theme=radical)](https://github.com/begeistert/github-readme-stats)[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=begeistert&repo=nupy&theme=radical)](https://github.com/begeistert/github-readme-stats)
+
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -42,6 +46,10 @@ Here are some ideas to get you started:
 
 <br/>
 <br/>
+
+### Certifications
+
+- [Python](https://www.hackerrank.com/certificates/5ac47a508895)
 
 ### Projects:
 - I am working to optimize my application for numerical calculations in android ([Sherlock](https://github.com/begeistert/Sherlock))
