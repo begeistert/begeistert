@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 <br/>
 <br/>
 
-### Certifications
+### Certificates
 
 - [Python](https://www.hackerrank.com/certificates/5ac47a508895)
 
