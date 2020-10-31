@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## I'm a Developer and Student!!
 - 🔭 I’m currently working on [Sherlock](https://github.com/begeistert/Sherlock) and [NuPy](https://github.com/begeistert/nupy)
-- 🌱 I’m currently learning Python
+- 🌱 I am currently learning Python and soon Data Science in [Bedu](https://bedu.org/)
 - 😄 I’m looking to collaborate on [SymPy](https://github.com/sympy/sympy) project
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to sleep and create **code**
@@ -52,7 +52,8 @@ Here are some ideas to get you started:
 - [Python](https://www.hackerrank.com/certificates/5ac47a508895)
 
 ### Projects:
-- I am working to optimize my application for numerical calculations in android ([Sherlock](https://github.com/begeistert/Sherlock))
+- I am working to optimize my application for numerical calculations on Android ([Sherlock](https://github.com/begeistert/Sherlock))
+- I am working on porting all my algorithms for Sherlock's numerical calculation into a new Python package called [NuPy](https://github.com/begeistert/nupy)
 - I hope to find interesting projects in which I can collaborate
 
 <!--details>
