@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## I'm a Developer and Student!!
 - 🔭 I’m currently working on [Sherlock](https://github.com/begeistert/Sherlock) and [NuPy](https://github.com/begeistert/nupy)
-- 🌱 I am currently learning Python and soon Data Science at [Bedu](https://bedu.org/)
+- 🌱 I am currently learning Python and Data Science at [Bedu](https://bedu.org/)
 - 😄 I’m looking to collaborate on [SymPy](https://github.com/sympy/sympy) project
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to sleep and create **code**
