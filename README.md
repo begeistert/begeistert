@@ -13,6 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![](https://komarev.com/ghpvc/?username=begeistert)
+
 ### Hi there, I'm Ivan - aka [begeistert](https://github.com/begeistert) 👋
 
 ## I'm a Developer and Student!!
