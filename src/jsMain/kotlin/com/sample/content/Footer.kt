@@ -63,7 +63,15 @@ private fun CopyrightInFooter() {
         Span({
             classes(WtTexts.wtText3, WtTexts.wtTextPale)
         }) {
-            Text("Developed with Compose for Web")
+            Text("Developed and based in ")
+            A(
+                attrs = {
+                    classes(WtTexts.wtText3, WtTexts.wtTextPale)
+                },
+                href = "https://compose-web.ui.pages.jetbrains.team/"
+            ) {
+                Text("Compose for Web")
+            }
         }
     }
 }
