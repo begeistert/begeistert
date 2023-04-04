@@ -102,6 +102,15 @@ fun ComposeWebLibraries() {
 }
 
 @Composable
+fun WorkInProgress() {
+    ContainerInSection(WtSections.wtSectionBgGrayDark) {
+        H2(attrs = { classes(WtTexts.wtH2, WtTexts.wtH2ThemeDark) }) {
+            Text("This is a work in progress")
+        }
+    }
+}
+
+@Composable
 private fun CardWithList(card: CardWithListPresentation) {
     Card(
         title = card.title,
