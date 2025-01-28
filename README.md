@@ -17,24 +17,16 @@ Here are some ideas to get you started:
 
 ### Hi there, I'm Ivan - aka [begeistert](https://github.com/begeistert) 👋
 
-## I'm a Developer and Student!!
-- 🔭 I’m currently working on [Sherlock](https://github.com/begeistert/Sherlock) and [NuPy](https://github.com/begeistert/nupy)
-- 🌱 I am currently learning Python and Data Science
-- 😄 I’m looking to collaborate on [SymPy](https://github.com/sympy/sympy) project
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to sleep and create **code**
-
-### Spotify Playing 🎧
-
-<p align="center">
-  <a href="https://spotify-github-profile.vercel.app/api/view?uid=1279713513&redirect=true">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=1279713513&cover_image=true&theme=default">
-  </a>
-</p>
+## I'm a Software Developer!!
+- 🔭 I’m currently working on [AVR8Sharp](https://github.com/begeistert/AVR8Sharp)
+- 🌱 I am currently learning C++ and async programing
+- 😄 I’m looking to create .NET projects that could make an impact... or write simulators
+- 🥅 2025 Goals: Contribute more to Open Source projects
+- ⚡ Fun fact: I love to sleep, go to the gym and create **code**
 
 [![begeistert's github stats](https://github-readme-stats.vercel.app/api?username=begeistert&count_private=true&show_icons=true&theme=radical)](https://github.com/begeistert/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=begeistert&layout=compact&theme=radical)](https://github.com/begeistert/github-readme-stats)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=begeistert&repo=Sherlock&theme=radical)](https://github.com/begeistert/github-readme-stats)[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=begeistert&repo=nupy&theme=radical)](https://github.com/begeistert/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=begeistert&repo=AVR8Sharp&theme=radical)](https://github.com/begeistert/github-readme-stats)
 
 ### Languages and Tools:
 
