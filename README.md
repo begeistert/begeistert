@@ -18,10 +18,10 @@ Here are some ideas to get you started:
 ### Hi there, I'm Ivan - aka [begeistert](https://github.com/begeistert) 👋
 
 ## I'm a Software Developer!!
-- 🔭 I’m currently working on [AVR8Sharp](https://github.com/begeistert/AVR8Sharp)
-- 🌱 I am currently learning C++ and async programing
+- 🔭 I’m currently working on [RP2040Sharp](https://github.com/begeistert/RP2040Sharp)
+- 🌱 I am currently learning C++, async programing and memory management
 - 😄 I’m looking to create .NET projects that could make an impact... or write simulators
-- 🥅 2025 Goals: Contribute more to Open Source projects
+- 🥅 2026 Goals: Have the first alpha of PyMCU
 - ⚡ Fun fact: I love to sleep, go to the gym and create **code**
 
 [![begeistert's github stats](https://github-readme-stats.vercel.app/api?username=begeistert&count_private=true&show_icons=true&theme=radical)](https://github.com/begeistert/github-readme-stats)
