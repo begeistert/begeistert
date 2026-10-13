@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ### Hi there, I'm Ivan - aka [begeistert](https://github.com/begeistert) 👋
 
 ## I'm a Software Developer!!
-- 🔭 I’m currently working on [RP2040Sharp](https://github.com/begeistert/RP2040Sharp)
+- 🔭 I’m currently working on [RP2040Sharp](https://github.com/PyMCU/RP2040Sharp)
 - 🌱 I am currently learning C++, async programing and memory management
 - 😄 I’m looking to create .NET projects that could make an impact... or write simulators
 - 🥅 2026 Goals: Have the first alpha of PyMCU
@@ -27,6 +27,7 @@ Here are some ideas to get you started:
 [![begeistert's github stats](https://github-readme-stats.vercel.app/api?username=begeistert&count_private=true&show_icons=true&theme=radical)](https://github.com/begeistert/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=begeistert&layout=compact&theme=radical)](https://github.com/begeistert/github-readme-stats)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=begeistert&repo=AVR8Sharp&theme=radical)](https://github.com/begeistert/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=begeistert&repo=RP2040Sharp&theme=radical)](https://github.com/begeistert/github-readme-stats)
 
 ### Languages and Tools:
 
